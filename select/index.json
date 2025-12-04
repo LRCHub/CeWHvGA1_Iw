@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "虐",
+  "base_artist": "椿",
+  "createdAt": "2025-12-04T14:00:53.876263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虐/歌愛ユキ",
+      "artist": "椿",
+      "has_synced": true,
+      "path": "select/01_虐_歌愛ユキ_椿.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虐",
+      "artist": "椿",
+      "has_synced": false,
+      "path": "select/pl_01_虐_椿.txt"
+    }
+  ]
+}
